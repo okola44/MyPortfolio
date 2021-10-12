@@ -1,0 +1,30 @@
+.woman{
+    float: right;
+}
+
+.section1{
+    height: 600px;
+}
+p{
+    margin-top: 90px;
+}
+#section1{
+    display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+#greeting{
+    margin-top: 10px;
+}
+h1{
+    font-size: 30px;
+    color:purple;
+    margin-left: 10px;
+}
+body{
+    background-color: pink;
+}
+nav{
+    background-color: pink;
+    position: fixed;
+}
